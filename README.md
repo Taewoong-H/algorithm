@@ -16,6 +16,13 @@
         - [음료수 얼려먹기](https://github.com/Taewoong-H/algorithm/blob/main/dfs%2Cbfs/%EC%9D%8C%EB%A3%8C%EC%88%98%EC%96%BC%EB%A0%A4%EB%A8%B9%EA%B8%B0.py)
         - [미로찾기](https://github.com/Taewoong-H/algorithm/blob/main/dfs%2Cbfs/%EB%AF%B8%EB%A1%9C%EC%B0%BE%EA%B8%B0.py)
    4. 정렬
+      - 이론
+        - [선택정렬]()
+        - [삽입정렬]()
+        - [퀵정렬]()
+        - [계수정렬]()
+      - 실전문제
+        - [위에서 아래로]()
    5. 이진탐색
    6. 다이나믹 프로그래밍
    7. 최단 경로
