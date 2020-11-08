@@ -4,7 +4,7 @@ for i in range(n):
     card.append(int(input()))
 
 card = sorted(card, reverse=True)
-print(card)
+
 sum_card = card.pop()
 answer = 0
 while card:
@@ -13,3 +13,5 @@ while card:
     answer += sum_card
 
 print(answer)
+
+# heapq를 이용해 다시풀기..
