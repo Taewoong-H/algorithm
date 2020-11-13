@@ -49,6 +49,7 @@
       - [안테나](https://github.com/Taewoong-H/algorithm/blob/main/%EC%A0%95%EB%A0%AC/%EC%95%88%ED%85%8C%EB%82%98.py)
       - [카드 정렬하기](https://github.com/Taewoong-H/algorithm/blob/main/%EC%A0%95%EB%A0%AC/%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
    5. 이진탐색
+      - [정렬된 배열에서 특정 수의 개수 구하기]()
    6. 다이나믹 프로그래밍
    7. 최단 경로
    8. 그래프 이론
