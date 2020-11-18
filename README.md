@@ -44,6 +44,12 @@
         - [바닥 공사](https://github.com/Taewoong-H/algorithm/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%B0%94%EB%8B%A5%20%EA%B3%B5%EC%82%AC.py)
         - [효율적인 화폐 구성](https://github.com/Taewoong-H/algorithm/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%ED%99%94%ED%8F%90%20%EA%B5%AC%EC%84%B1.py)
    7. 최단 경로
+      - 이론
+        - [다익스트라 최단거리 알고리즘]()
+        - [플로이드 워셜 알고리즘]()
+      - 실전문제
+        - [미래 도시]()
+        - [전보]()
    8. 그래프 이론
 
 2. 유형별 기출문제
@@ -59,6 +65,8 @@
    5. 이진탐색
       - [정렬된 배열에서 특정 수의 개수 구하기](https://github.com/Taewoong-H/algorithm/blob/main/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89/%EC%A0%95%EB%A0%AC%EB%90%9C%20%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C%20%ED%8A%B9%EC%A0%95%20%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)
    6. 다이나믹 프로그래밍
-      - [못생긴수]()
+      - [못생긴수](https://github.com/Taewoong-H/algorithm/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%AA%BB%EC%83%9D%EA%B8%B4%EC%88%98.py)
    7. 최단 경로
+      - [플로이드]()
+      - [정확한 순위]()
    8. 그래프 이론
