@@ -52,10 +52,13 @@
         - [전보](https://github.com/Taewoong-H/algorithm/blob/main/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EC%A0%84%EB%B3%B4.py)
    8. 그래프 이론
       - 이론
-        - [서로소 집합]()
-        - [신장 트리]()
-        - [위상 정렬]()
+        - [서로소 집합](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/%EC%84%9C%EB%A1%9C%EC%86%8C%20%EC%A7%91%ED%95%A9.md)
+        - [신장 트리](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC.md)
+        - [위상 정렬](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC.md)
       - 실전문제
+        - [팀 결성](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/%ED%8C%80%20%EA%B2%B0%EC%84%B1.py)
+        - [도시 분할 계획](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/%EB%8F%84%EC%8B%9C%20%EB%B6%84%ED%95%A0%20%EA%B3%84%ED%9A%8D.py)
+        - [커리큘럼](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC.py)
 
 2. 유형별 기출문제
 
