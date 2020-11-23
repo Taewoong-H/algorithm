@@ -22,6 +22,7 @@ while queue:
 
 count = False
 for i in range(1, n + 1):
+    print(visited[i])
     if visited[i] == k:
         print(i)
         count = True

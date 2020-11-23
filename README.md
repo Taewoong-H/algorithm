@@ -63,7 +63,11 @@
 2. 유형별 기출문제
 
    1. 그리디
+      - [모험가 길드]()
+      - [곱하기 혹은 더하기]()
    2. 구현
+      - [럭키 스트레이트]()
+      - [문자열 재정렬]()
    3. DFS/BFS
       - [특정거리의 도시찾기](https://github.com/Taewoong-H/algorithm/blob/main/dfs%2Cbfs/%ED%8A%B9%EC%A0%95%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%20%EC%B0%BE%EA%B8%B0.py)
    4. 정렬
