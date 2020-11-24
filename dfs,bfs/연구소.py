@@ -1,3 +1,5 @@
+from collections import deque
+
 n, m = map(int, input().split())
 graph = []
 temp = [[0] * m for _ in range(n)]
@@ -10,15 +12,32 @@ dy = [0, 1, 0, -1]
 
 result = 0
 
+# bfs로 구현
+'''
+def spread_virus(x, y):
+    queue = deque()
+    queue.append((x, y))
+    while queue:
+        x, y = queue.popleft()
+        for i in range(4):
+            nx = x + dx[i]
+            ny = y + dy[i]
+            if nx >= 0 and nx < n and ny >= 0 and ny < m:
+                if temp[nx][ny] == 0:
+                    temp[nx][ny] = 2
+                    queue.append((nx, ny))
+'''
+
 
 def spread_virus(x, y):
     for i in range(4):
         nx = x + dx[i]
-        ny = y + dy[y]
+        ny = y + dy[i]
         if nx >= 0 and nx < n and ny >= 0 and ny < m:
             if temp[nx][ny] == 0:
                 temp[nx][ny] = 2
                 spread_virus(nx, ny)
+
 
 
 def get_score():

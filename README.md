@@ -63,15 +63,16 @@
 2. 유형별 기출문제
 
    1. 그리디
-      - [모험가 길드]()
-      - [곱하기 혹은 더하기]()
+      - [모험가 길드](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%AA%A8%ED%97%98%EA%B0%80%20%EA%B8%B8%EB%93%9C.py)
+      - [곱하기 혹은 더하기](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EA%B3%B1%ED%95%98%EA%B8%B0%20%ED%98%B9%EC%9D%80%20%EB%8D%94%ED%95%98%EA%B8%B0.py)
    2. 구현
-      - [럭키 스트레이트]()
-      - [문자열 재정렬]()
+      - [럭키 스트레이트](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B5%AC%ED%98%84/%EB%9F%AD%ED%82%A4%20%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%8A%B8.py)
+      - [문자열 재정렬](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B5%AC%ED%98%84/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%AC%EC%A0%95%EB%A0%AC.py)
    3. DFS/BFS
       - [특정거리의 도시찾기](https://github.com/Taewoong-H/algorithm/blob/main/dfs%2Cbfs/%ED%8A%B9%EC%A0%95%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%20%EC%B0%BE%EA%B8%B0.py)
+      - [연구소](https://github.com/Taewoong-H/algorithm/blob/main/dfs%2Cbfs/%EC%97%B0%EA%B5%AC%EC%86%8C.py)
    4. 정렬
-      - [국영수]()
+      - [국영수](https://github.com/Taewoong-H/algorithm/blob/main/%EC%A0%95%EB%A0%AC/%EA%B5%AD%EC%98%81%EC%88%98.py)
       - [안테나](https://github.com/Taewoong-H/algorithm/blob/main/%EC%A0%95%EB%A0%AC/%EC%95%88%ED%85%8C%EB%82%98.py)
       - [카드 정렬하기](https://github.com/Taewoong-H/algorithm/blob/main/%EC%A0%95%EB%A0%AC/%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
    5. 이진탐색
