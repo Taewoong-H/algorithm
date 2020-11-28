@@ -80,6 +80,7 @@
       - [고정점 찾기](https://github.com/Taewoong-H/algorithm/blob/main/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89/%EA%B3%A0%EC%A0%95%EC%A0%90%20%EC%B0%BE%EA%B8%B0.py)
    6. 다이나믹 프로그래밍
       - [못생긴수](https://github.com/Taewoong-H/algorithm/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%AA%BB%EC%83%9D%EA%B8%B4%EC%88%98.py)
+      - [정수 삼각형]()
       - [금광](https://github.com/Taewoong-H/algorithm/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EA%B8%88%EA%B4%91.py)
    7. 최단 경로
       - [플로이드](https://github.com/Taewoong-H/algorithm/blob/main/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.py)
