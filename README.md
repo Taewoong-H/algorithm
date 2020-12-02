@@ -65,6 +65,8 @@
    1. 그리디
       - [모험가 길드](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%AA%A8%ED%97%98%EA%B0%80%20%EA%B8%B8%EB%93%9C.py)
       - [곱하기 혹은 더하기](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EA%B3%B1%ED%95%98%EA%B8%B0%20%ED%98%B9%EC%9D%80%20%EB%8D%94%ED%95%98%EA%B8%B0.py)
+      - [문자열 뒤집기](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0.py)
+      - [만들수 없는 금액](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%A7%8C%EB%93%A4%20%EC%88%98%20%EC%97%86%EB%8A%94%20%EA%B8%88%EC%95%A1.py)
    2. 구현
       - [럭키 스트레이트](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B5%AC%ED%98%84/%EB%9F%AD%ED%82%A4%20%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%8A%B8.py)
       - [문자열 재정렬](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B5%AC%ED%98%84/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%AC%EC%A0%95%EB%A0%AC.py)
@@ -80,9 +82,11 @@
       - [고정점 찾기](https://github.com/Taewoong-H/algorithm/blob/main/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89/%EA%B3%A0%EC%A0%95%EC%A0%90%20%EC%B0%BE%EA%B8%B0.py)
    6. 다이나믹 프로그래밍
       - [못생긴수](https://github.com/Taewoong-H/algorithm/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%AA%BB%EC%83%9D%EA%B8%B4%EC%88%98.py)
-      - [정수 삼각형]()
+      - [정수 삼각형](https://github.com/Taewoong-H/algorithm/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.py)
       - [금광](https://github.com/Taewoong-H/algorithm/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EA%B8%88%EA%B4%91.py)
    7. 최단 경로
       - [플로이드](https://github.com/Taewoong-H/algorithm/blob/main/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.py)
       - [정확한 순위](https://github.com/Taewoong-H/algorithm/blob/main/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EC%A0%95%ED%99%95%ED%95%9C%20%EC%88%9C%EC%9C%84.py)
    8. 그래프 이론
+      - [여행 계획](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/%EC%97%AC%ED%96%89%20%EA%B3%84%ED%9A%8D.py)
+      - [탑승구](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0/%ED%83%91%EC%8A%B9%EA%B5%AC.py)
