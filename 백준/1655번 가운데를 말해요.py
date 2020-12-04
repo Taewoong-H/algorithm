@@ -19,3 +19,5 @@ for i in range(n):
     end = len(result) - 1
     mid = (start + end) // 2
     print(result[mid])
+
+# heap 큐 자료구조를 이용해 풀기..
