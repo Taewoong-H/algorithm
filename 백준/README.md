@@ -15,5 +15,9 @@
   - [2606번 바이러스](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/2606%EB%B2%88%20%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py) - 유형: 서로소 집합
 
 - 12월 5일
+
   - [1654번 랜선 자르기](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/1654%EB%B2%88%20%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py) - 유형: 이진탐색
   - [2667번 단지번호붙이기](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/2667%EB%B2%88%20%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py) - 유형: DFS
+
+- 12월 7일
+  - [1406번 에디터]() - 유형: 스택, 큐
