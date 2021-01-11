@@ -42,25 +42,30 @@
 
 - 1월 3일
 
-  - [1051번 숫자 정사각형]() - 유형: 구현, 브루트포스
-  - [1197번 최소 스패닝 트리]() - 유형: 그래프이론, 크루스칼 알고리즘
+  - [1051번 숫자 정사각형](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/1051%EB%B2%88%20%EC%88%AB%EC%9E%90%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95.py) - 유형: 구현, 브루트포스
+  - [1197번 최소 스패닝 트리](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/1197%EB%B2%88%20%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC.py) - 유형: 그래프이론, 크루스칼 알고리즘
 
 - 1월 5일
 
-  - [11399번 ATM]() - 유형: 그리디
-  - [14501번 퇴사]() - 유형: DP
-  - [1434번 책 정리]() - 유형: 그리디
+  - [11399번 ATM](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/11399%EB%B2%88%20ATM.py) - 유형: 그리디
+  - [14501번 퇴사](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/14501%EB%B2%88%20%ED%87%B4%EC%82%AC.py) - 유형: DP
+  - [1434번 책 정리](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/1434%EB%B2%88%20%EC%B1%85%20%EC%A0%95%EB%A6%AC.py) - 유형: 그리디
 
 - 1월 6일
 
-  - [2579번 계단 오르기]() - 유형: DP
+  - [2579번 계단 오르기](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/2579%EB%B2%88%20%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0.py) - 유형: DP
 
 - 1월 7일
 
-  - [1260번 DFS와 BFS]() - 유형: DFS, BFS
-  - [15649번 N과 M]() - 유형: 백트래킹
+  - [1260번 DFS와 BFS](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/1260%EB%B2%88%20DFS%EC%99%80%20BFS.py) - 유형: DFS, BFS
+  - [15649번 N과 M](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/15649%EB%B2%88%20N%EA%B3%BCM.py) - 유형: 백트래킹
 
 - 1월 10일
 
-  - [1149번 RGB거리]() - 유형: DP
-  - [2630번 색종이 만들기]() - 유형: 백트래킹
+  - [1149번 RGB거리](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/1149%EB%B2%88%20RGB%EA%B1%B0%EB%A6%AC.py) - 유형: DP
+  - [2630번 색종이 만들기](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/2630%EB%B2%88%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) - 유형: 백트래킹
+
+- 1월 11일
+
+  - [1541번 잃어버린 괄호]() - 유형: 그리디, 수학
+  - [16236번 아기상어]() - 유형: BFS, 구현
