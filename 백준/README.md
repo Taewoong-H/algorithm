@@ -67,9 +67,14 @@
 
 - 1월 11일
 
-  - [1541번 잃어버린 괄호]() - 유형: 그리디, 수학
-  - [16236번 아기상어]() - 유형: BFS, 구현
+  - [1541번 잃어버린 괄호](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/1541%EB%B2%88%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.py) - 유형: 그리디, 수학
+  - [16236번 아기상어](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/16236%EB%B2%88%20%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4.py) - 유형: BFS, 구현
 
 - 1월 14일
 
-  - [9251번 LCS]() - 유형: DP, LCS
+  - [9251번 LCS](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/9251%EB%B2%88%20LCS.py) - 유형: DP, LCS
+
+- 1월 17일
+
+  - [2156번 포도주 시식]() - 유형: DP
+  - [5568번 카드 놓기]() - 유형: 백트래킹, 순열과 조합

@@ -6,7 +6,7 @@
 
 ### 백준 풀이
 
-- [백준 풀이]()
+- [백준 풀이](https://github.com/Taewoong-H/algorithm/tree/main/%EB%B0%B1%EC%A4%80)
 
 <br>
 
