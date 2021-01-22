@@ -76,23 +76,23 @@
 
 - 1월 17일
 
-  - [2156번 포도주 시식]() - 유형: DP
-  - [5568번 카드 놓기]() - 유형: 백트래킹, 순열과 조합
+  - [2156번 포도주 시식](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/2156%EB%B2%88%20%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.py) - 유형: DP
+  - [5568번 카드 놓기](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/5568%EB%B2%88%20%EC%B9%B4%EB%93%9C%20%EB%86%93%EA%B8%B0.py) - 유형: 백트래킹, 순열과 조합
 
 - 1월 18일
 
-  - [14880번 스타트와 링크]() - 유형: 브루트포스
+  - [14880번 스타트와 링크](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/14889%EB%B2%88%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC.py) - 유형: 브루트포스
 
 - 1월 19일
 
-  - [4963번 섬의 개수]() - 유형: DFS, BFS
+  - [4963번 섬의 개수](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/4963%EB%B2%88%20%EC%84%AC%EC%9D%98%EA%B0%9C%EC%88%98.py) - 유형: DFS, BFS
 
 - 1월 21일
 
-  - [7569번 토마토]() - 유형: BFS
-  - [18535번 병사 배치하기]() - 유형: DP
+  - [7569번 토마토](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/7569%EB%B2%88%20%ED%86%A0%EB%A7%88%ED%86%A0.py) - 유형: BFS
+  - [18535번 병사 배치하기](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/18535%EB%B2%88%20%EB%B3%91%EC%82%AC%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.py) - 유형: DP
 
 - 1월 22일
 
-  - [1504번 특정한 최당 경로]() - 유형: 다익트스라 알고리즘
-  - [볼링공 고르기]() - 유형 - 그리디
+  - [1504번 특정한 최당 경로](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/1504%EB%B2%88%20%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.py) - 유형: 다익트스라 알고리즘
+  - [볼링공 고르기](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%B3%BC%EB%A7%81%EA%B3%B5%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.py) - 유형 - 그리디
