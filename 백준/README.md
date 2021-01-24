@@ -96,3 +96,7 @@
 
   - [1504번 특정한 최당 경로](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/1504%EB%B2%88%20%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.py) - 유형: 다익트스라 알고리즘
   - [볼링공 고르기](https://github.com/Taewoong-H/algorithm/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%B3%BC%EB%A7%81%EA%B3%B5%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.py) - 유형 - 그리디
+
+- 1월 24일
+
+  - [17952번 과제는 끝나지 않아!]() - 유형: 스택
