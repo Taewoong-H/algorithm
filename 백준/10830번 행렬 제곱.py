@@ -17,6 +17,8 @@ for _ in range(n):
     matrix.append(list(map(int, input().split())))
 
 # 분할정복..
+# n이 짝수면 (A^2)^(n//2)
+# n이 홀수면 (A^(n - 1))*A
 
 answer = [[1 if i == j else 0 for i in range(n)] for j in range(n)]
 
