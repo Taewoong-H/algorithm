@@ -97,6 +97,7 @@
       - [못생긴수](https://github.com/Taewoong-H/algorithm/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%AA%BB%EC%83%9D%EA%B8%B4%EC%88%98.py)
       - [정수 삼각형](https://github.com/Taewoong-H/algorithm/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.py)
       - [금광](https://github.com/Taewoong-H/algorithm/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EA%B8%88%EA%B4%91.py)
+      - [편집거리]()
    7. 최단 경로
       - [플로이드](https://github.com/Taewoong-H/algorithm/blob/main/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.py)
       - [정확한 순위](https://github.com/Taewoong-H/algorithm/blob/main/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EC%A0%95%ED%99%95%ED%95%9C%20%EC%88%9C%EC%9C%84.py)
