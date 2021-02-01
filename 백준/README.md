@@ -99,22 +99,27 @@
 
 - 1월 24일
 
-  - [17952번 과제는 끝나지 않아!]() - 유형: 스택
+  - [17952번 과제는 끝나지 않아!](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/17952%EB%B2%88%20%EA%B3%BC%EC%A0%9C%EB%8A%94%20%EB%81%9D%EB%82%98%EC%A7%80%20%EC%95%8A%EC%95%84!.py) - 유형: 스택
 
 - 1월 25일
 
-  - [10830번 행렬 제곱]() - 유형: 분할 정복
-  - [2828번 사과 담기 게임]() - 유형: 그리디
+  - [10830번 행렬 제곱](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/10830%EB%B2%88%20%ED%96%89%EB%A0%AC%20%EC%A0%9C%EA%B3%B1.py) - 유형: 분할 정복
+  - [2828번 사과 담기 게임](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/2828%EB%B2%88%20%EC%82%AC%EA%B3%BC%20%EB%8B%B4%EA%B8%B0%20%EA%B2%8C%EC%9E%84.py) - 유형: 그리디
 
 - 1월 26일
 
-  - [9465번 스티커]() - 유형: DP
-  - [13413번 오셀로 재배치]() - 유형: 그리디
+  - [9465번 스티커](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/9465%EB%B2%88%20%EC%8A%A4%ED%8B%B0%EC%BB%A4.py) - 유형: DP
+  - [13413번 오셀로 재배치](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/13413%EB%B2%88%20%EC%98%A4%EC%85%80%EB%A1%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98.py) - 유형: 그리디
 
 - 1월 27일
 
-  - [1026번 보물]() - 유형: 정렬
+  - [1026번 보물](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/1026%EB%B2%88%20%EB%B3%B4%EB%AC%BC.py) - 유형: 정렬
 
 - 1월 30일
 
-  - [1789번 수들의 합]() - 유형: 이진 분할
+  - [1789번 수들의 합](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/1789%EB%B2%88%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9.py) - 유형: 이진 분할
+  
+- 2월 1일
+
+  - [4485번 녹색 옷 입은 애가 젤다지?]() - 유형: 다익스트라 알고리즘
+  - [4779번 칸토어 집합]() - 유형: 분할 정복
