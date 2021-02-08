@@ -121,16 +121,21 @@
   
 - 2월 1일
 
-  - [4485번 녹색 옷 입은 애가 젤다지?]() - 유형: 다익스트라 알고리즘
-  - [4779번 칸토어 집합]() - 유형: 분할 정복
+  - [4485번 녹색 옷 입은 애가 젤다지?](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/4485%EB%B2%88%20%EB%85%B9%EC%83%89%20%EC%98%B7%20%EC%9E%85%EC%9D%80%20%EC%95%A0%EA%B0%80%20%EC%A0%A4%EB%8B%A4%EC%A7%80.py) - 유형: 다익스트라 알고리즘
+  - [4779번 칸토어 집합](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/4779%EB%B2%88%20%EC%B9%B8%ED%86%A0%EC%96%B4%20%EC%A7%91%ED%95%A9.py) - 유형: 분할 정복
 
 - 2월 2일
 
-  - [16120번 PPAP]() - 유형: stack
-  - [17271번 리그 오브 레전설]() - 유형: DP
+  - [16120번 PPAP](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/16120%EB%B2%88%20PPAP.py) - 유형: stack
+  - [17271번 리그 오브 레전설(small)](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/17271%EB%B2%88%20%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EC%84%A4(small).py) - 유형: DP
 
 - 2월 7일
 
-  - [1238번 파티]() - 유형: 다익스트라 알고리즘
-  - [14659번 한조서열정리하고옴ㅋ]() - 유형: 그리디
-  - [17829번 222-풀링]() - 유형: 분할정복
+  - [1238번 파티](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/1238%EB%B2%88%20%ED%8C%8C%ED%8B%B0.py) - 유형: 다익스트라 알고리즘
+  - [14659번 한조서열정리하고옴ㅋ](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/14659%EB%B2%88%20%ED%95%9C%EC%A1%B0%EC%84%9C%EC%97%B4%EC%A0%95%EB%A6%AC%ED%95%98%EA%B3%A0%EC%98%B4%E3%85%8B.py) - 유형: 그리디
+  - [17829번 222-풀링](https://github.com/Taewoong-H/algorithm/blob/main/%EB%B0%B1%EC%A4%80/17829%EB%B2%88%20222-%ED%92%80%EB%A7%81.py) - 유형: 분할정복
+
+- 2월 8일
+
+  - [2352번 반도체 설계]() - 유형: LIS(가장 긴 부분 수열)
+  - [2565번 전깃줄]() - 유형: LIS(with binarySearch)
